@@ -1,0 +1,2 @@
+# littleStory
+my first repository
